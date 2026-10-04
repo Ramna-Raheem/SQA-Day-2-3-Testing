@@ -9,7 +9,7 @@ Day 3: Boundary and negative testing, re-testing of Day 1 bugs, and API checks
 
 What's in this repo
 
-`Ramna_Raheem_HisabDo_QA_Report_Day2_3.xlsx` contains four sheets:
+`Ramna Raheem HisabDo QA Report Day 2&3.xlsx` contains four sheets:
 
 1. Test Cases - Day 2 and Day 3 test cases
 2. Bug Reports - All 8 identified bugs and Day 3 re-test results for BUG001-003
